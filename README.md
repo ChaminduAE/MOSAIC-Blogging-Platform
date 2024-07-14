@@ -1,15 +1,15 @@
-MOSAIC: A MERN Blogging Platform 
+ 
 
-MOSAIC is a responsive blogging platform developed as a final project at the University of Kelaniya by a team of three. 
-This group project showcases our collaborative effort and technical expertise using the MERN stack (MongoDB, Express.js, React, Node.js). 
-My role focused on frontend design, ensuring a seamless and visually appealing user experience. Key features of MOSAIC include:
+🚀 Excited to share our final year project from the University of Kelaniya: MOSAIC - A MERN Blogging Platform! 🌟
 
-• UI Components: Designed responsive UI components with React and Tailwind CSS for a seamless user experience.
-• API Development: Developed RESTful APIs with Express.js to handle CRUD operations efficiently.
-• API Testing: Utilized Postman for thorough API testing to ensure reliability and performance.
-• User Authentication: Implemented JWT (JSON Web Token) for secure user authentication and authorization.
-• Database Management: Managed MongoDB for efficient and scalable data storage solutions.
-• Media Uploads: Enabled media upload capabilities for a richer user content experience.
-• Search Functionality: Incorporated robust search functionality for easy content discovery.
-• Real-Time Comments: Implemented real-time commenting to enhance user engagement and interaction.
-• Technologies Used: MongoDB, Express.js, React, Node.js, JWT
+Developed by a dedicated team of three, MOSAIC is a responsive and feature-rich blogging platform that demonstrates our collaborative skills and technical prowess with the MERN stack (MongoDB, Express.js, React, Node.js). My primary focus was on frontend design, ensuring a seamless and visually appealing user experience. Here’s what makes MOSAIC stand out:
+
+🔸 UI Components: Crafted responsive UI components using React and Tailwind CSS for an intuitive user experience.
+🔸 API Development: Built RESTful APIs with Express.js for efficient CRUD operations.
+🔸 API Testing: Thoroughly tested APIs using Postman to ensure reliability and performance.
+🔸 User Authentication: Implemented secure user authentication and authorization with JWT (JSON Web Token).
+🔸 Database Management: Utilized MongoDB for scalable and efficient data storage solutions.
+🔸 Media Uploads: Enabled media upload capabilities for a richer content experience.
+🔸 Search Functionality: Integrated robust search functionality for easy content discovery.
+🔸 Real-Time Comments: Added real-time commenting to boost user engagement and interaction.
+🔸 Technologies Used: MongoDB, Express.js, React, Node.js, JWT
