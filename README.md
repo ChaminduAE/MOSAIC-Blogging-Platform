@@ -5,6 +5,7 @@
 Developed by a dedicated team of three, MOSAIC is a responsive and feature-rich blogging platform that demonstrates our collaborative skills and technical prowess with the MERN stack (MongoDB, Express.js, React, Node.js). My primary focus was on frontend design, ensuring a seamless and visually appealing user experience. Here’s what makes MOSAIC stand out:
 
 🔸 UI Components: Crafted responsive UI components using React and Tailwind CSS for an intuitive user experience.
+
 🔸 API Development: Built RESTful APIs with Express.js for efficient CRUD operations.
 🔸 API Testing: Thoroughly tested APIs using Postman to ensure reliability and performance.
 🔸 User Authentication: Implemented secure user authentication and authorization with JWT (JSON Web Token).
